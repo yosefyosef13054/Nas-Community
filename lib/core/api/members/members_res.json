@@ -1,0 +1,929 @@
+{
+  "data": [
+    {
+      "_id": "5f0d3ab0427b8900049aa60c",
+      "lastModifiedTimeStamp": "2021-12-02T08:36:53.556Z",
+      "learnerId": 683,
+      "isActive": true,
+      "firstName": "Dhruv 1",
+      "lastName": "Sharma",
+      "email": "dhruv.tauras@gmail.com",
+      "countryId": "139",
+      "profileImage": "https://s3.ap-southeast-1.amazonaws.com/thenasacademy.com/1611039279098.jpg",
+      "createdAt": "2020-10-16T05:01:43.411Z",
+      "creations": [
+        {
+          "title": "inst",
+          "widget": {
+            "link": "https://www.facebook.com",
+            "_id": "600e7239e0e3272c306e62e2",
+            "type": "youtube"
+          },
+          "description": "test",
+          "_id": "600e7239e0e3272c306e62e1"
+        }
+      ],
+      "socialMedia": [
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/fb-transparent-black.svg",
+          "link": "https://facebook.com",
+          "_id": "600e723be0e3272c306e62e3",
+          "type": "facebook"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/ig-transparent-black.svg",
+          "link": "https://www.instagram.com",
+          "_id": "600e723be0e3272c306e62e4",
+          "type": "instagram"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/yt-transparent-black.svg",
+          "link": "https://youtube.com",
+          "_id": "600e723be0e3272c306e62e5",
+          "type": "youtube"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/na-website/svg/tt-transparent-black.svg",
+          "link": "www.tiktok.om",
+          "_id": "600e723be0e3272c306e62e6",
+          "type": "tiktok"
+        },
+        {
+          "iconLink": null,
+          "link": "www.twitter.com",
+          "_id": "600e723be0e3272c306e62e7",
+          "type": "twitter"
+        },
+        {
+          "iconLink": null,
+          "link": "http://linkedin.co",
+          "_id": "600e723be0e3272c306e62e8",
+          "type": "linkedin"
+        }
+      ],
+      "country": "Philippines",
+      "bio": null,
+      "skills": [],
+      "interests": [],
+      "spotlights": [],
+      "contactUsernames": [],
+      "followersCount": 0,
+      "primaryContact": null,
+      "subscriptions": [
+        {
+          "_id": "6295d5b283d89976dc64905e",
+          "communityCode": "NAS_DAILY_BEGINNER_COMMUNITY",
+          "email": "dhruv.tauras@gmail.com",
+          "learnerId": 683,
+          "learnerObjectId": "5f0d3ab0427b8900049aa60c",
+          "stripeSubscriptionId": "sub_1L5QhOJeHVSfrG3lyjbn18j4",
+          "stripeCustomerId": "cus_KKQeiHYzK89nXc",
+          "stripeProductId": "prod_LirWQ4LaOvEt4W",
+          "stripePriceId": "USD_9",
+          "stripePrice": 900,
+          "stripeCurrency": "USD",
+          "status": "Current",
+          "country": "Singapore",
+          "subscriptionId": 278,
+          "createdAt": "2022-05-31T08:45:38.111Z",
+          "updatedAt": "2022-05-31T09:50:41.854Z",
+          "applicationReviewDate": "2022-05-31T09:50:41.854Z",
+          "memberType": "paid",
+          "invoice_details": [],
+          "amount": 900,
+          "currency": "USD",
+          "isRepurchase": false,
+          "nextBillingDate": "2022-07-31T08:45:10.000Z",
+          "billingCycle": 1
+        }
+      ],
+      "joinedCommunityDate": [
+        "2022-05-31T08:45:38.111Z"
+      ]
+    },
+    {
+      "_id": "5f9a3339551a4937f1c29ffc",
+      "isActive": true,
+      "email": "jasbindar@nasdaily.com",
+      "lastName": "Singh",
+      "learnerId": 2087,
+      "createdAt": "2020-10-29T03:12:57.922Z",
+      "countryId": 79,
+      "lastModifiedTimeStamp": "2022-07-12T10:47:46.240Z",
+      "firstName": "JasbindarV3",
+      "creations": [],
+      "profileImage": "https://s3.ap-southeast-1.amazonaws.com/thenasacademy.com/1657622863634.jpg",
+      "socialMedia": [
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/fb-transparent-black.svg",
+          "link": "",
+          "type": "facebook"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/ig-transparent-black.svg",
+          "link": "",
+          "type": "instagram"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/yt-transparent-black.svg",
+          "link": "",
+          "type": "youtube"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/fb-transparent-black.svg",
+          "link": "",
+          "type": "facebook"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/ig-transparent-black.svg",
+          "link": "",
+          "type": "instagram"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/yt-transparent-black.svg",
+          "link": "",
+          "type": "youtube"
+        }
+      ],
+      "subtitlePreference": "en",
+      "country": "India",
+      "bio": "",
+      "skills": [],
+      "interests": [],
+      "spotlights": [],
+      "contactUsernames": [],
+      "followersCount": [],
+      "primaryContact": null,
+      "subscriptions": [
+        {
+          "_id": "628e33c7a06b4defe4e2a005",
+          "communityCode": "NAS_DAILY_BEGINNER_COMMUNITY",
+          "email": "jasbindar@nasdaily.com",
+          "learnerId": 2087,
+          "status": "Current",
+          "createdBy": "shubhashish@nasdaily.com",
+          "createdAt": "2022-05-25T13:48:55.926Z",
+          "updatedAt": "2022-05-25T13:48:55.926Z",
+          "subscriptionId": 231,
+          "__v": 0,
+          "memberType": "nasacademy",
+          "invoice_details": [],
+          "isRepurchase": false,
+          "billingCycle": 1
+        }
+      ],
+      "joinedCommunityDate": [
+        "2022-05-25T13:48:55.926Z"
+      ]
+    },
+    {
+      "_id": "5ffeba88699bac1554d8e7f0",
+      "countryId": 79,
+      "email": "shubhashish30@gmail.com",
+      "isActive": true,
+      "createdAt": "2021-01-13T09:16:56.413Z",
+      "learnerId": 2843,
+      "lastName": "Verma",
+      "lastModifiedTimeStamp": "2022-06-06T09:28:51.208Z",
+      "firstName": "Shubhashish",
+      "creations": [],
+      "profileImage": "https://s3.ap-southeast-1.amazonaws.com/thenasacademy.com/1654507728678.jpg",
+      "socialMedia": [],
+      "subtitlePreference": "en",
+      "country": "India",
+      "bio": null,
+      "skills": [],
+      "interests": [],
+      "spotlights": [],
+      "contactUsernames": [],
+      "followersCount": 0,
+      "primaryContact": null,
+      "subscriptions": [
+        {
+          "_id": "62978b1229ac0b1413b22cc2",
+          "communityCode": "NAS_DAILY_BEGINNER_COMMUNITY",
+          "email": "shubhashish30@gmail.com",
+          "learnerId": 2843,
+          "status": "Current",
+          "createdBy": "shubhashish@nasdaily.com",
+          "memberType": "free",
+          "createdAt": "2022-06-01T15:51:46.915Z",
+          "updatedAt": "2022-06-01T15:51:46.915Z",
+          "subscriptionId": 297,
+          "__v": 0,
+          "invoice_details": [],
+          "isRepurchase": false,
+          "billingCycle": 1
+        }
+      ],
+      "joinedCommunityDate": [
+        "2022-06-01T15:51:46.915Z"
+      ]
+    },
+    {
+      "_id": "602b37184271825623cdab63",
+      "isActive": true,
+      "lastModifiedTimeStamp": "2021-08-17T13:47:28.267Z",
+      "email": "jasbindar+123@nasdaily.com",
+      "createdAt": "2021-02-16T03:08:08.460Z",
+      "firstName": "Jasbindar",
+      "learnerId": 2986,
+      "countryId": "79",
+      "lastName": "Singh",
+      "creations": [],
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage16.jpg",
+      "socialMedia": [],
+      "country": "India",
+      "bio": "The most amazing thing is to inspire and be inspired. Let's begin telling the stories we love!",
+      "skills": [],
+      "interests": [
+        "Technology"
+      ],
+      "spotlights": [
+        {
+          "link": "https://ink.com"
+        },
+        {
+          "link": "https://google.com"
+        }
+      ],
+      "contactUsernames": [
+        {
+          "type": "discord",
+          "username": "john"
+        }
+      ],
+      "followersCount": [
+        {
+          "type": "discord",
+          "username": "john"
+        }
+      ],
+      "primaryContact": null,
+      "subscriptions": [
+        {
+          "_id": "62a1d6f124cca88ba621779f",
+          "communityCode": "NAS_DAILY_BEGINNER_COMMUNITY",
+          "email": "jasbindar+123@nasdaily.com",
+          "learnerId": 2986,
+          "learnerObjectId": "602b37184271825623cdab63",
+          "stripeSubscriptionId": "sub_1L8jMnJeHVSfrG3l83ur7b1r",
+          "stripeCustomerId": "cus_K3ZmmloqKwKxgk",
+          "stripeProductId": "prod_LirWQ4LaOvEt4W",
+          "stripePriceId": "INR_699",
+          "stripePrice": 69900,
+          "stripeCurrency": "INR",
+          "status": "Current",
+          "country": "India",
+          "memberType": "nasacademy",
+          "subscriptionId": 962,
+          "createdAt": "2022-06-09T11:18:09.694Z",
+          "updatedAt": "2022-06-09T11:22:07.656Z",
+          "applicationReviewDate": "2022-06-09T11:22:07.656Z",
+          "invoice_details": [],
+          "amount": 927,
+          "currency": "USD",
+          "isRepurchase": false,
+          "nextBillingDate": "2022-07-08T18:30:00.000Z",
+          "billingCycle": 1
+        }
+      ],
+      "joinedCommunityDate": [
+        "2022-06-09T11:18:09.694Z"
+      ]
+    },
+    {
+      "_id": "6077f771110f25cd2c608141",
+      "learnerId": 3262,
+      "isActive": true,
+      "lastName": null,
+      "countryId": null,
+      "createdAt": "2021-04-15T08:21:05.420Z",
+      "lastModifiedTimeStamp": "2022-06-09T11:18:54.854526",
+      "email": "jasbindar+1234@nasdaily.com",
+      "firstName": "Jasbindar",
+      "creations": [],
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage1.jpg",
+      "socialMedia": [],
+      "bio": "Hello! Excited to meet new people with similar interest in video-making",
+      "skills": [],
+      "interests": [
+        "Technology"
+      ],
+      "spotlights": [
+        {
+          "link": "https://ink.com"
+        },
+        {
+          "link": "https://google.com"
+        }
+      ],
+      "contactUsernames": [
+        {
+          "type": "discord",
+          "username": "john"
+        }
+      ],
+      "followersCount": [
+        {
+          "type": "discord",
+          "username": "john"
+        }
+      ],
+      "primaryContact": null,
+      "subscriptions": [
+        {
+          "_id": "62a1d72f24cca88ba62177d3",
+          "communityCode": "NAS_DAILY_BEGINNER_COMMUNITY",
+          "email": "jasbindar+1234@nasdaily.com",
+          "learnerId": 3262,
+          "learnerObjectId": "6077f771110f25cd2c608141",
+          "stripeSubscriptionId": "sub_1L8jNpJeHVSfrG3lWg4iq4Km",
+          "stripeCustomerId": "cus_JtQGCUKfdkB1gB",
+          "stripeProductId": "prod_LirWQ4LaOvEt4W",
+          "stripePriceId": "INR_699",
+          "stripePrice": 69900,
+          "stripeCurrency": "INR",
+          "status": "Current",
+          "country": "India",
+          "memberType": "nasacademy",
+          "subscriptionId": 963,
+          "createdAt": "2022-06-09T11:19:11.798Z",
+          "updatedAt": "2022-06-09T11:22:23.704Z",
+          "applicationReviewDate": "2022-06-09T11:22:23.704Z",
+          "invoice_details": [],
+          "amount": 927,
+          "currency": "USD",
+          "isRepurchase": false,
+          "nextBillingDate": "2022-07-08T18:30:00.000Z",
+          "billingCycle": 1
+        }
+      ],
+      "joinedCommunityDate": [
+        "2022-06-09T11:19:11.798Z"
+      ]
+    },
+    {
+      "_id": "607a947cd216faf5ff52bf88",
+      "learnerId": 3263,
+      "isActive": true,
+      "lastName": "Verma",
+      "countryId": 79,
+      "createdAt": "2021-04-17T07:55:40.055Z",
+      "lastModifiedTimeStamp": "2022-06-01T06:59:19.571Z",
+      "email": "shubhashish+007@nasdaily.com",
+      "firstName": "Shubhashish",
+      "creations": [],
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage11.jpg",
+      "socialMedia": [],
+      "subtitlePreference": "en",
+      "country": "India",
+      "bio": null,
+      "skills": [],
+      "interests": [],
+      "spotlights": [],
+      "contactUsernames": [],
+      "followersCount": 0,
+      "primaryContact": null,
+      "subscriptions": [
+        {
+          "_id": "62978aa929ac0b1413b22cb8",
+          "communityCode": "NAS_DAILY_BEGINNER_COMMUNITY",
+          "email": "shubhashish+007@nasdaily.com",
+          "learnerId": 3263,
+          "status": "Current",
+          "createdBy": "shubhashish@nasdaily.com",
+          "memberType": "nasacademy",
+          "createdAt": "2022-06-01T15:50:01.489Z",
+          "updatedAt": "2022-06-01T15:50:01.489Z",
+          "subscriptionId": 296,
+          "__v": 0,
+          "invoice_details": [],
+          "isRepurchase": false,
+          "billingCycle": 1
+        }
+      ],
+      "joinedCommunityDate": [
+        "2022-06-01T15:50:01.489Z"
+      ]
+    },
+    {
+      "_id": "60b5fa3cb0d19d2ad4e7e1c6",
+      "isActive": true,
+      "lastName": "Vadamodula",
+      "learnerId": 3393,
+      "email": "tarunkumar0258@gmail.com",
+      "createdAt": "2021-06-01T09:13:32.294Z",
+      "countryId": "79",
+      "firstName": "Tarun",
+      "lastModifiedTimeStamp": "2022-07-15T11:11:19.468Z",
+      "creations": [],
+      "profileImage": "https://s3.ap-southeast-1.amazonaws.com/thenasacademy.com/1622539046703.jpg",
+      "socialMedia": [
+        {
+          "iconLink": null,
+          "link": "https://www.discord.com",
+          "type": "discord"
+        }
+      ],
+      "subtitlePreference": "en",
+      "country": "India",
+      "bio": "Making my dreams come alive, with videos.",
+      "skills": [
+        "Short Form Video",
+        "Scriptwriting"
+      ],
+      "interests": [
+        "NFTs",
+        "Crypto"
+      ],
+      "spotlights": [
+        {
+          "link": "linkedin.com/in/tarun-vadamodula-455282b1"
+        },
+        {
+          "link": "https://main-website.dev-nasacademy.com/checkout?type=community&communityCode=NAS_DAILY_CREATOR_COMMUNITY&step=enroll"
+        }
+      ],
+      "contactUsernames": [
+        {
+          "type": "telegram",
+          "username": "Tarunkumar1"
+        }
+      ],
+      "followersCount": [
+        {
+          "type": "telegram",
+          "username": "Tarunkumar1"
+        }
+      ],
+      "primaryContact": null,
+      "subscriptions": [
+        {
+          "_id": "6296e95101a76fc2778ed714",
+          "communityCode": "NAS_DAILY_BEGINNER_COMMUNITY",
+          "email": "tarunkumar0258@gmail.com",
+          "learnerId": 3393,
+          "learnerObjectId": "60b5fa3cb0d19d2ad4e7e1c6",
+          "stripeSubscriptionId": "sub_1L5j3PJeHVSfrG3lcWFInoui",
+          "stripeCustomerId": "cus_LnJgFozdWge9fm",
+          "stripeProductId": "prod_LirWQ4LaOvEt4W",
+          "stripePriceId": "INR_699",
+          "stripePrice": 69900,
+          "stripeCurrency": "INR",
+          "status": "Current",
+          "country": "India",
+          "subscriptionId": 290,
+          "createdAt": "2022-06-01T04:21:37.748Z",
+          "updatedAt": "2022-06-01T04:22:30.243Z",
+          "applicationReviewDate": "2022-06-01T04:22:30.243Z",
+          "memberType": "paid",
+          "invoice_details": [],
+          "amount": 928,
+          "currency": "USD",
+          "isRepurchase": false,
+          "nextBillingDate": "2022-08-01T04:21:07.000Z",
+          "billingCycle": 1
+        }
+      ],
+      "joinedCommunityDate": [
+        "2022-06-01T04:21:37.748Z"
+      ]
+    },
+    {
+      "_id": "60c98a6f86cb77fcafb8d21e",
+      "createdAt": "2021-06-16T05:21:51.292Z",
+      "isActive": true,
+      "lastName": "Kumar112",
+      "email": "tarunkumar+4@nasacademy.com",
+      "countryId": "79",
+      "lastModifiedTimeStamp": "2022-07-11T09:06:33.489Z",
+      "firstName": "Tarun11",
+      "learnerId": 3464,
+      "creations": [],
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage9.jpg",
+      "socialMedia": [
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/fb-transparent-black.svg",
+          "link": "",
+          "type": "facebook"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/ig-transparent-black.svg",
+          "link": "",
+          "type": "instagram"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/yt-transparent-black.svg",
+          "link": "",
+          "type": "youtube"
+        },
+        {
+          "iconLink": null,
+          "link": "",
+          "type": "twitter"
+        },
+        {
+          "iconLink": null,
+          "link": "",
+          "type": "linkedin"
+        },
+        {
+          "iconLink": null,
+          "link": "",
+          "type": "tiktok"
+        },
+        {
+          "iconLink": null,
+          "link": "",
+          "type": "opensea"
+        },
+        {
+          "iconLink": null,
+          "link": "",
+          "type": "discord"
+        },
+        {
+          "iconLink": null,
+          "link": "https://www.facebook.com/NasAcademy/com",
+          "type": "dribble"
+        }
+      ],
+      "subtitlePreference": "en",
+      "country": "India",
+      "bio": "Always Testing yes",
+      "skills": [],
+      "interests": [],
+      "spotlights": [],
+      "contactUsernames": [],
+      "followersCount": [],
+      "primaryContact": null,
+      "subscriptions": [
+        {
+          "_id": "62878b745602ebe621e2f80b",
+          "communityCode": "NAS_DAILY_BEGINNER_COMMUNITY",
+          "email": "tarunkumar+4@nasacademy.com",
+          "learnerId": 3464,
+          "learnerObjectId": "60c98a6f86cb77fcafb8d21e",
+          "stripeSubscriptionId": "sub_1L1V4QJeHVSfrG3lLCIMCrH9",
+          "stripeCustomerId": "cus_JoUXkTqoF4cIQr",
+          "stripeProductId": "prod_LirWQ4LaOvEt4W",
+          "stripePriceId": "INR_699",
+          "stripePrice": 930,
+          "status": "Current",
+          "country": "India",
+          "subscriptionId": 202,
+          "createdAt": "2022-05-20T12:37:08.303Z",
+          "updatedAt": "2022-05-20T12:37:08.303Z",
+          "memberType": "nasacademy",
+          "invoice_details": [],
+          "amount": 930,
+          "currency": "USD",
+          "isRepurchase": false,
+          "nextBillingDate": "2022-07-19T12:36:41.000Z",
+          "billingCycle": 1
+        }
+      ],
+      "joinedCommunityDate": [
+        "2022-05-20T12:37:08.303Z"
+      ]
+    },
+    {
+      "_id": "60cccdff4fd714f75b4fd226",
+      "countryId": "79",
+      "firstName": "Tarun",
+      "isActive": true,
+      "learnerId": 3532,
+      "lastModifiedTimeStamp": "2022-06-24T06:24:47.000Z",
+      "createdAt": "2021-06-18T16:46:55.144Z",
+      "email": "tarunkumar+46@nasacademy.com",
+      "lastName": "V",
+      "creations": [],
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage1.jpg",
+      "socialMedia": [
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/fb-transparent-black.svg",
+          "link": "https://www.facebook.com/NasAcademy/",
+          "type": "facebook"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/ig-transparent-black.svg",
+          "link": "https://www.facebook.com/NasAcademy/",
+          "type": "instagram"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/yt-transparent-black.svg",
+          "link": "https://www.facebook.com/NasAcademy/",
+          "type": "youtube"
+        },
+        {
+          "iconLink": null,
+          "link": "https://www.facebook.com/NasAcademy/",
+          "type": "twitter"
+        },
+        {
+          "iconLink": null,
+          "link": "https://www.facebook.com/NasAcademy/",
+          "type": "linkedin"
+        },
+        {
+          "iconLink": null,
+          "link": "https://www.facebook.com/NasAcademy/",
+          "type": "tiktok"
+        },
+        {
+          "iconLink": null,
+          "link": "https://www.facebook.com/NasAcademy/",
+          "type": "opensea"
+        },
+        {
+          "iconLink": null,
+          "link": "https://www.facebook.com/NasAcademy/",
+          "type": "discord"
+        },
+        {
+          "iconLink": null,
+          "link": "https://www.facebook.com/NasAcademy/",
+          "type": "dribble"
+        }
+      ],
+      "subtitlePreference": "en",
+      "country": "India",
+      "bio": "",
+      "skills": [],
+      "interests": [],
+      "spotlights": [],
+      "contactUsernames": [],
+      "followersCount": [],
+      "primaryContact": null,
+      "subscriptions": [
+        {
+          "_id": "628b4c42e8320f9ad8913331",
+          "communityCode": "NAS_DAILY_BEGINNER_COMMUNITY",
+          "email": "tarunkumar+46@nasacademy.com",
+          "learnerId": 3532,
+          "learnerObjectId": "60cccdff4fd714f75b4fd226",
+          "stripeSubscriptionId": "sub_1L2X3iJeHVSfrG3lJCFWLFLD",
+          "stripeCustomerId": "cus_JnRc0m2kid8RCh",
+          "stripeProductId": "prod_LirWQ4LaOvEt4W",
+          "stripePriceId": "INR_699",
+          "stripePrice": 926,
+          "status": "Current",
+          "country": "India",
+          "subscriptionId": 205,
+          "createdAt": "2022-05-23T08:56:34.702Z",
+          "updatedAt": "2022-05-23T08:56:34.702Z",
+          "applicationReviewDate": "2022-05-12T00:00:00.000Z",
+          "memberType": "nasacademy",
+          "invoice_details": [],
+          "amount": 926,
+          "currency": "USD",
+          "isRepurchase": false,
+          "nextBillingDate": "2022-07-11T16:00:00.000Z",
+          "billingCycle": 1
+        }
+      ],
+      "joinedCommunityDate": [
+        "2022-05-23T08:56:34.702Z"
+      ]
+    },
+    {
+      "_id": "60e69d484eca9c75f8e8827b",
+      "learnerId": 3605,
+      "createdAt": "2021-07-08T06:38:00.325Z",
+      "isActive": true,
+      "firstName": "sara",
+      "lastModifiedTimeStamp": "2022-07-18T09:45:46.122Z",
+      "countryId": 136,
+      "lastName": "Iftikhar",
+      "email": "sara.i@nasacademy.com",
+      "creations": [],
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage7.jpg",
+      "socialMedia": [
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/fb-transparent-black.svg",
+          "link": "",
+          "_id": "626134655999a30d136fbcdd",
+          "type": "facebook"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/ig-transparent-black.svg",
+          "link": "",
+          "_id": "626134655999a381416fbcde",
+          "type": "instagram"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/yt-transparent-black.svg",
+          "link": "",
+          "_id": "626134655999a3a9476fbcdf",
+          "type": "youtube"
+        }
+      ],
+      "subtitlePreference": "en",
+      "country": "Pakistan",
+      "bio": "Hi! I’m an artist and I can’t wait to share my ideas with everyone",
+      "skills": [],
+      "interests": [],
+      "spotlights": [
+        {
+          "link": "jhgjhg",
+          "thumbnail": null,
+          "title": null,
+          "desc": null,
+          "isPrimary": true
+        },
+        {
+          "link": "fdfefe",
+          "thumbnail": null,
+          "title": null,
+          "desc": null,
+          "isPrimary": false
+        }
+      ],
+      "contactUsernames": [
+        {
+          "type": "telegram",
+          "username": "75"
+        }
+      ],
+      "followersCount": [
+        {
+          "type": "telegram",
+          "username": "75"
+        }
+      ],
+      "primaryContact": null,
+      "subscriptions": [
+        {
+          "_id": "628ca6be59c744ec72e83ce4",
+          "communityCode": "NAS_DAILY_BEGINNER_COMMUNITY",
+          "email": "sara.i@nasacademy.com",
+          "learnerId": 3605,
+          "status": "Current",
+          "createdBy": "sara.i@nasacademy.com",
+          "createdAt": "2022-05-24T09:34:54.242Z",
+          "updatedAt": "2022-05-24T09:34:54.242Z",
+          "subscriptionId": 218,
+          "__v": 0,
+          "memberType": "nasacademy",
+          "invoice_details": [],
+          "isRepurchase": false,
+          "billingCycle": 1
+        }
+      ],
+      "joinedCommunityDate": [
+        "2022-05-24T09:34:54.242Z"
+      ]
+    }
+  ],
+  "meta": {
+    "total": 135,
+    "limit": 10,
+    "page": 1,
+    "pages": 14
+  },
+  "communityManagers": [
+    {
+      "_id": "6298e183c2285236fb4ce9c7",
+      "firstName": "Tarun",
+      "lastName": "V",
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage8.jpg",
+      "countryId": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage8.jpg",
+      "country": "India",
+      "description": "The most amazing thing is to inspire and be inspired. Let's begin telling the stories we love!",
+      "longDescription": "",
+      "socialMedia": []
+    },
+    {
+      "_id": "629a2b9ec2285236fbaa372b",
+      "firstName": "Mark",
+      "lastName": "Vu",
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage5.jpg",
+      "countryId": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage5.jpg",
+      "country": "Singapore",
+      "description": "Hi! I’m an artist and I can’t wait to share my ideas with everyone",
+      "longDescription": "",
+      "socialMedia": []
+    },
+    {
+      "_id": "62a1da53c2285236fbb0dc2a",
+      "firstName": "Prashant",
+      "lastName": "Sharma",
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage15.jpg",
+      "countryId": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage15.jpg",
+      "country": "Nepal",
+      "description": "Let's make beautiful and inspiring content together",
+      "longDescription": "",
+      "socialMedia": []
+    },
+    {
+      "_id": "62aae8304787b7a9308ff3d9",
+      "firstName": "Zammy",
+      "lastName": "Ahamath",
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage2.jpg",
+      "countryId": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage2.jpg",
+      "country": "Sri Lanka",
+      "description": "Very excited about everything.",
+      "longDescription": "",
+      "socialMedia": [
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/fb-transparent-black.svg",
+          "link": "https://www.facebook.com",
+          "type": "facebook"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/ig-transparent-black.svg",
+          "link": "www.instagram.com/nasdaily",
+          "type": "instagram"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/yt-transparent-black.svg",
+          "link": "https://learn-preview-1.dev-nasacademy.com/setting/profile",
+          "type": "youtube"
+        },
+        {
+          "iconLink": null,
+          "link": "www.twitter.com/nasdaily",
+          "type": "twitter"
+        },
+        {
+          "iconLink": null,
+          "link": null,
+          "type": "linkedin"
+        },
+        {
+          "iconLink": null,
+          "link": null,
+          "type": "tiktok"
+        },
+        {
+          "iconLink": null,
+          "link": null,
+          "type": "opensea"
+        },
+        {
+          "iconLink": null,
+          "link": null,
+          "type": "discord"
+        },
+        {
+          "iconLink": null,
+          "link": null,
+          "type": "dribble"
+        }
+      ]
+    },
+    {
+      "_id": "62b40db65076fac67d58cd7e",
+      "firstName": "Pratyum",
+      "lastName": "Jagannath",
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage10.jpg",
+      "countryId": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage10.jpg",
+      "country": "India",
+      "description": "Let's make beautiful and inspiring content together",
+      "longDescription": "",
+      "socialMedia": []
+    },
+    {
+      "_id": "62d0f6669358e2c3dcdfaa17",
+      "firstName": "rajat",
+      "lastName": "bansal",
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage7.jpg",
+      "countryId": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage7.jpg",
+      "country": "Singapore",
+      "description": "It's amazing how videos unite people. ",
+      "longDescription": "",
+      "socialMedia": []
+    },
+    {
+      "_id": "62d674669358e2c3dc8c426d",
+      "firstName": "Aman",
+      "lastName": "Minha",
+      "profileImage": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage13.jpg",
+      "countryId": "https://d2yjtdaqamc55g.cloudfront.net/randomProfileImage13.jpg",
+      "country": "India",
+      "description": "I'm excited to start this film-making journey! ",
+      "longDescription": "",
+      "socialMedia": [
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/fb-transparent-black.svg",
+          "link": "https://www.facebook.com/test",
+          "_id": "6233132f26418a763656c497",
+          "type": "facebook"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/ig-transparent-black.svg",
+          "link": "https://www.instagram.com/tes",
+          "_id": "6233132f26418a763656c498",
+          "type": "instagram"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/yt-transparent-black.svg",
+          "link": "https://www.youtube.com/test",
+          "_id": "6233132f26418a763656c499",
+          "type": "youtube"
+        }
+      ]
+    }
+  ]
+}

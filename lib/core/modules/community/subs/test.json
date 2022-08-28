@@ -1,0 +1,34 @@
+{
+  "communityVideos": [
+    {
+      "_id": 1,
+      "objectId": "626cfc40a4248c5b42f9bc0b",
+      "thumbnail": "https://dash-cdn.dev-nasacademy.com/f6e9d05e-bab6-4b5d-8e98-51850bec272a/thumbnails/FB_1.1_Why_I_chose_Facebook_as_my_Platform_thumb.0000010.jpg",
+      "link": "https://dash-cdn.dev-nasacademy.com/f6e9d05e-bab6-4b5d-8e98-51850bec272a/dash/FB_1.1_Why_I_chose_Facebook_as_my_Platform.mpd",
+      "hlsLink": "https://dash-cdn.dev-nasacademy.com/f6e9d05e-bab6-4b5d-8e98-51850bec272a/hls/FB_1.1_Why_I_chose_Facebook_as_my_Platform.m3u8",
+      "duration": 439000,
+      "topic": "How to Crush it on Facebook",
+      "topicIndex": 1
+    },
+    {
+      "_id": 2,
+      "objectId": "626cfc42a4248c5b42f9bc12",
+      "thumbnail": "https://dash-cdn.dev-nasacademy.com/671194ce-7136-46c1-bdae-04eddaa0b457/thumbnails/AOS_2.1_The_Power_of_Words_thumb.0000000.jpg",
+      "link": "https://dash-cdn.dev-nasacademy.com/671194ce-7136-46c1-bdae-04eddaa0b457/dash/AOS_2.1_The_Power_of_Words.mpd",
+      "hlsLink": "https://dash-cdn.dev-nasacademy.com/671194ce-7136-46c1-bdae-04eddaa0b457/hls/AOS_2.1_The_Power_of_Words.m3u8",
+      "duration": 272000,
+      "topic": "How to Become a Better Writer",
+      "topicIndex": 2
+    },
+    {
+      "_id": 3,
+      "objectId": "626cfc4ca4248c5b42f9bc31",
+      "thumbnail": "https://dash-cdn.dev-nasacademy.com/81d1d53d-e894-464e-9863-e6997793b157/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_1.1_Introducing_The_Nas_Daily_Team_thumb.0000010.jpg",
+      "link": "https://dash-cdn.dev-nasacademy.com/81d1d53d-e894-464e-9863-e6997793b157/dash/NAS_DAILY_FINAL_CUT_BEGINNER_1.1_Introducing_The_Nas_Daily_Team.mpd",
+      "hlsLink": "https://dash-cdn.dev-nasacademy.com/81d1d53d-e894-464e-9863-e6997793b157/hls/NAS_DAILY_FINAL_CUT_BEGINNER_1.1_Introducing_The_Nas_Daily_Team.m3u8",
+      "duration": 397000,
+      "topic": "Nas Daily Final Cut Pro for Beginners",
+      "topicIndex": 3
+    }
+  ]
+}

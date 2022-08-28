@@ -1,0 +1,15 @@
+{
+  "receipt": {
+    "store": "google",
+    "pendingCompletePurchase": true,
+    "transactionDate": "1658163193015",
+    "status": "purchased",
+    "productID": "creatorcommunitybynasdaily",
+    "purchaseID": "GPA.3352-8030-5277-46085",
+    "verificationData": {
+      "serverVerificationData": "mmclhgnmebmcmoaoanhbkdib.AO-J1OyzNCIL3KbNNCPm-4q8qHT9OD7f2hXBXh_8b5dU2U0ZSDHAwDKJOJwtyIpuHqQYxHP_LhMFKQJjRob0atjfnInIZa6HAA",
+      "localVerificationData": "{\"orderId\":\"GPA.3352-8030-5277-46085\",\"packageName\":\"com.nas.academy\",\"productId\":\"creatorcommunitybynasdaily\",\"purchaseTime\":1658163193015,\"purchaseState\":0,\"purchaseToken\":\"mmclhgnmebmcmoaoanhbkdib.AO-J1OyzNCIL3KbNNCPm-4q8qHT9OD7f2hXBXh_8b5dU2U0ZSDHAwDKJOJwtyIpuHqQYxHP_LhMFKQJjRob0atjfnInIZa6HAA\",\"obfuscatedAccountId\":\"275923bc-a3c2-4ad6-94ed-89bf29be6fd5\",\"autoRenewing\":true,\"acknowledged\":false}",
+      "source": "google_play"
+    }
+  }
+}

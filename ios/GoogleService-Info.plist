@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>656317264365-p26l0p94rif57vfavc939h05me8282q7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.656317264365-p26l0p94rif57vfavc939h05me8282q7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>656317264365-1heentobaflm1kgii2cs8hv42t5s68ol.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWCrZaH4L3idnkwiK93Tj2L5rLbgFR4TE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>656317264365</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nasAcademy</string>
+	<key>PROJECT_ID</key>
+	<string>intricate-facet-265607</string>
+	<key>STORAGE_BUCKET</key>
+	<string>intricate-facet-265607.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:656317264365:ios:1c9076fc74a76d5d6db7e4</string>
+	<key>SERVER_CLIENT_ID</key>
+	<string>656317264365-0a56c7c0558rcvlcl5rff3mt9anqacj7.apps.googleusercontent.com</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">145853164108276</string>
+    <string name="fb_login_protocol_scheme">fb145853164108276</string>
+    <string name="facebook_client_token">164761cebcc5581444b2404606a6c793</string>
+    <string name="app_name">Nas Dev</string>
+<!--    <string name="default_web_client_id">656317264365-3mflnbp39aso9490oigh2fgun19t89hp.apps.googleusercontent.com</string>-->
+
+</resources>

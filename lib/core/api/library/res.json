@@ -1,0 +1,2751 @@
+[
+  {
+    "_id": 1,
+    "topic": "Dear Alyne Money",
+    "topicIndex": 1,
+    "items": [
+      {
+        "_id": "62b2255ba39d383a03aa4311",
+        "topicIndex": 1,
+        "subIndex": 1,
+        "topic": "Dear Alyne Money",
+        "title": "How To Make Money With 0 Followers As A Creator",
+        "shortUrl": "https://nas.io/creators/hdvn",
+        "createdAt": "2022-06-21T20:11:30.000Z",
+        "link": "https://dash-cdn.nasacademy.com/af564d50-5065-4d2c-a4b9-c78cbb767680/dash/how_to_make_money_with_zero_Followers_da.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/af564d50-5065-4d2c-a4b9-c78cbb767680/hls/how_to_make_money_with_zero_Followers_da.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/af564d50-5065-4d2c-a4b9-c78cbb767680/thumbnails/how_to_make_money_with_zero_Followers_da_thumb.0000999.jpg",
+        "duration": 5193000,
+        "subtitles": []
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "topic": "How to Crush it on Facebook",
+    "topicIndex": 2,
+    "items": [
+      {
+        "_id": "626ecbc9e3a211e8923f4345",
+        "topicIndex": 2,
+        "subIndex": 1,
+        "topic": "How to Crush it on Facebook",
+        "title": "Why I Chose Facebook",
+        "shortUrl": "https://nas.io/creators/jrkv",
+        "createdAt": "2022-01-18T14:21:31.000Z",
+        "link": "https://dash-cdn.nasacademy.com/f6e9d05e-bab6-4b5d-8e98-51850bec272a/dash/FB_1.1_Why_I_chose_Facebook_as_my_Platform.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/f6e9d05e-bab6-4b5d-8e98-51850bec272a/hls/FB_1.1_Why_I_chose_Facebook_as_my_Platform.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/f6e9d05e-bab6-4b5d-8e98-51850bec272a/thumbnails/FB_1.1_Why_I_chose_Facebook_as_my_Platform_thumb.0000010.jpg",
+        "duration": 439000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/English/FB1_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Arabic/FB1_1_AR.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Bengali/FB1_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/French/FB1_1_FR.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hindi/FB1_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Indonesian/FB1_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Malay/FB1_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Portuguese/FB1_1_PT.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Spanish/FB1_1_ES.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Tagalog/FB1_1_TL.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hebrew/FB1_1_HE.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Simplified/FB1_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Traditional/FB1_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Japanese/FB1_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbc9e3a211e8923f4346",
+        "topicIndex": 2,
+        "subIndex": 2,
+        "topic": "How to Crush it on Facebook",
+        "title": "What Types of Videos Work on Facebook",
+        "shortUrl": "https://nas.io/creators/jskd",
+        "createdAt": "2021-03-19T17:36:06.000Z",
+        "link": "https://dash-cdn.nasacademy.com/bae7c303-4afd-4408-acd1-4e4c6e5af95f/dash/FB_2.1_What_Types_of_Videos_Works_on_Facebook.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/bae7c303-4afd-4408-acd1-4e4c6e5af95f/hls/FB_2.1_What_Types_of_Videos_Works_on_Facebook.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/bae7c303-4afd-4408-acd1-4e4c6e5af95f/thumbnails/FB_2.1_What_Types_of_Videos_Works_on_Facebook_thumb.0000000.jpg",
+        "duration": 369000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/English/FB2_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Arabic/FB2_1_AR.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Bengali/FB2_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/French/FB2_1_FR.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hindi/FB2_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Indonesian/FB2_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Malay/FB2_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Portuguese/FB2_1_PT.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Spanish/FB2_1_ES.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Tagalog/FB2_1_TL.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hebrew/FB2_1_HE.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Simplified/FB2_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Traditional/FB2_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Japanese/FB2_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcae3a211e8923f4347",
+        "topicIndex": 2,
+        "subIndex": 3,
+        "topic": "How to Crush it on Facebook",
+        "title": "Engineering The Perfect Facebook Video",
+        "shortUrl": "https://nas.io/creators/swkc",
+        "createdAt": "2022-01-18T14:21:31.000Z",
+        "link": "https://dash-cdn.nasacademy.com/b9d4a5ed-2d0f-4c8a-bf2f-80d337f24aa1/dash/FB_3.1_How_to_Engineer_the_Perfect_Facebook_Video.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/b9d4a5ed-2d0f-4c8a-bf2f-80d337f24aa1/hls/FB_3.1_How_to_Engineer_the_Perfect_Facebook_Video.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/b9d4a5ed-2d0f-4c8a-bf2f-80d337f24aa1/thumbnails/FB_3.1_How_to_Engineer_the_Perfect_Facebook_Video_thumb.0000010.jpg",
+        "duration": 677000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/English/FB3_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Arabic/FB3_1_AR.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Bengali/FB3_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/French/FB3_1_FR.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hindi/FB3_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Indonesian/FB3_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Malay/FB3_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Portuguese/FB3_1_PT.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Spanish/FB3_1_ES.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Tagalog/FB3_1_TL.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hebrew/FB3_1_HE.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Simplified/FB3_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Traditional/FB3_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Japanese/FB3_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcae3a211e8923f4348",
+        "topicIndex": 2,
+        "subIndex": 4,
+        "topic": "How to Crush it on Facebook",
+        "title": "Going Viral On Facebook",
+        "shortUrl": "https://nas.io/creators/gaqm",
+        "createdAt": "2022-01-18T14:21:32.000Z",
+        "link": "https://dash-cdn.nasacademy.com/0c4eceed-4d34-457c-8cf4-33d575085553/dash/FB_4.1_How_to_Build_a_Viral_Community_on_Facebook.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/0c4eceed-4d34-457c-8cf4-33d575085553/hls/FB_4.1_How_to_Build_a_Viral_Community_on_Facebook.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/0c4eceed-4d34-457c-8cf4-33d575085553/thumbnails/FB_4.1_How_to_Build_a_Viral_Community_on_Facebook_thumb.0000010.jpg",
+        "duration": 912000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/English/FB4_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Arabic/FB4_1_AR.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Bengali/FB4_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/French/FB4_1_FR.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hindi/FB4_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Indonesian/FB4_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Malay/FB4_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Portuguese/FB4_1_PT.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Spanish/FB4_1_ES.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Tagalog/FB4_1_TL.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hebrew/FB4_1_HE.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Simplified/FB4_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Traditional/FB4_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Japanese/FB4_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcae3a211e8923f4349",
+        "topicIndex": 2,
+        "subIndex": 5,
+        "topic": "How to Crush it on Facebook",
+        "title": "How to Make Money On Facebook",
+        "shortUrl": "https://nas.io/creators/xswv",
+        "createdAt": "2022-01-18T14:21:32.000Z",
+        "link": "https://dash-cdn.nasacademy.com/9b4d8005-d4a2-41cc-97fe-8a6c5fb99e3c/dash/FB_5.1_How_to_make_Money_from_Facebook.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/9b4d8005-d4a2-41cc-97fe-8a6c5fb99e3c/hls/FB_5.1_How_to_make_Money_from_Facebook.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/9b4d8005-d4a2-41cc-97fe-8a6c5fb99e3c/thumbnails/FB_5.1_How_to_make_Money_from_Facebook_thumb.0000010.jpg",
+        "duration": 482000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/English/FB5_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Arabic/FB5_1_AR.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Bengali/FB5_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/French/FB5_1_FR.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hindi/FB5_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Indonesian/FB5_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Malay/FB5_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Portuguese/FB5_1_PT.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Spanish/FB5_1_ES.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Tagalog/FB5_1_TL.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hebrew/FB5_1_HE.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Simplified/FB5_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Traditional/FB5_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Japanese/FB5_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcbe3a211e8923f434a",
+        "topicIndex": 2,
+        "subIndex": 6,
+        "topic": "How to Crush it on Facebook",
+        "title": "Building A Business On Facebook",
+        "shortUrl": "https://nas.io/creators/bkyy",
+        "createdAt": "2021-03-19T17:37:23.000Z",
+        "link": "https://dash-cdn.nasacademy.com/5fd49cf1-2dec-4bf0-90c7-0308ec65dd92/dash/FB_6.1_How_to_build_a_Business_on_Facebook.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/5fd49cf1-2dec-4bf0-90c7-0308ec65dd92/hls/FB_6.1_How_to_build_a_Business_on_Facebook.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/5fd49cf1-2dec-4bf0-90c7-0308ec65dd92/thumbnails/FB_6.1_How_to_build_a_Business_on_Facebook_thumb.0000000.jpg",
+        "duration": 697000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/English/FB6_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Arabic/FB6_1_AR.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Bengali/FB6_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/French/FB6_1_FR.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hindi/FB6_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Indonesian/FB6_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Malay/FB6_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Portuguese/FB6_1_PT.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Spanish/FB6_1_ES.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Tagalog/FB6_1_TL.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hebrew/FB6_1_HE.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Simplified/FB6_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Traditional/FB6_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Japanese/FB6_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcbe3a211e8923f434b",
+        "topicIndex": 2,
+        "subIndex": 7,
+        "topic": "How to Crush it on Facebook",
+        "title": "You Can Make Thousands Of Dollars (At Least) On Facebook",
+        "shortUrl": "https://nas.io/creators/hwwq",
+        "createdAt": "2022-01-18T14:21:32.000Z",
+        "link": "https://dash-cdn.nasacademy.com/c4372bc5-abf6-402f-a6bb-69a6d18c6529/dash/FB_7.1_Final_Thoughts.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/c4372bc5-abf6-402f-a6bb-69a6d18c6529/hls/FB_7.1_Final_Thoughts.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/c4372bc5-abf6-402f-a6bb-69a6d18c6529/thumbnails/FB_7.1_Final_Thoughts_thumb.0000000.jpg",
+        "duration": 227000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/English/FB7_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Arabic/FB7_1_AR.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Bengali/FB7_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/French/FB7_1_FR.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hindi/FB7_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Indonesian/FB7_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Malay/FB7_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Portuguese/FB7_1_PT.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Spanish/FB7_1_ES.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Tagalog/FB7_1_TL.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Hebrew/FB7_1_HE.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Simplified/FB7_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Chinese-Traditional/FB7_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/fb_on_demand/vtt/Japanese/FB7_1_JA.vtt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "topic": "How to Become a Better Writer",
+    "topicIndex": 3,
+    "items": [
+      {
+        "_id": "626ecbcbe3a211e8923f434c",
+        "topicIndex": 3,
+        "subIndex": 1,
+        "topic": "How to Become a Better Writer",
+        "title": "What makes a good video : The Power Of Words",
+        "shortUrl": "https://nas.io/creators/unmc",
+        "createdAt": "2021-10-29T09:52:04.000Z",
+        "link": "https://dash-cdn.nasacademy.com/671194ce-7136-46c1-bdae-04eddaa0b457/dash/AOS_2.1_The_Power_of_Words.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/671194ce-7136-46c1-bdae-04eddaa0b457/hls/AOS_2.1_The_Power_of_Words.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/671194ce-7136-46c1-bdae-04eddaa0b457/thumbnails/AOS_2.1_The_Power_of_Words_thumb.0000000.jpg",
+        "duration": 272000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS2_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS2_1_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS2_1_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS2_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS2_1_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS2_1_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS2_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS2_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS2_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS2_1_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS2_1_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS2_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS2_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS2_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcbe3a211e8923f434d",
+        "topicIndex": 3,
+        "subIndex": 2,
+        "topic": "How to Become a Better Writer",
+        "title": "What makes a good video : The Golden 3: Simplicity",
+        "shortUrl": "https://nas.io/creators/yolf",
+        "createdAt": "2021-02-26T18:56:11.000Z",
+        "link": "https://dash-cdn.nasacademy.com/94a4c53a-3325-45ca-9e65-ac9059188d80/dash/AOS_2.2_The_Golden_3_Simple.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/94a4c53a-3325-45ca-9e65-ac9059188d80/hls/AOS_2.2_The_Golden_3_Simple.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/94a4c53a-3325-45ca-9e65-ac9059188d80/thumbnails/AOS_2.2_The_Golden_3_Simple_thumb.0000000.jpg",
+        "duration": 540000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS2_2.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS2_2_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS2_2_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS2_2_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS2_2_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS2_2_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS2_2_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS2_2_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS2_2_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS2_2_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS2_2_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS2_2_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS2_2_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS2_2_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcce3a211e8923f434e",
+        "topicIndex": 3,
+        "subIndex": 3,
+        "topic": "How to Become a Better Writer",
+        "title": "What makes a good video : The Golden 3: Organisation",
+        "shortUrl": "https://nas.io/creators/vahy",
+        "createdAt": "2021-10-29T09:53:37.000Z",
+        "link": "https://dash-cdn.nasacademy.com/beba190b-bcc7-4350-be75-4295b67086a6/dash/AOS_2.3_The_Golden_3_Organised.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/beba190b-bcc7-4350-be75-4295b67086a6/hls/AOS_2.3_The_Golden_3_Organised.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/beba190b-bcc7-4350-be75-4295b67086a6/thumbnails/AOS_2.3_The_Golden_3_Organised_thumb.0000000.jpg",
+        "duration": 530000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS2_3.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS2_3_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS2_3_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS2_3_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS2_3_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS2_3_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS2_3_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS2_3_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS2_3_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS2_3_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS2_3_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS2_3_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS2_3_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS2_3_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcce3a211e8923f434f",
+        "topicIndex": 3,
+        "subIndex": 4,
+        "topic": "How to Become a Better Writer",
+        "title": "What makes a good video : The Golden 3: Relatability",
+        "shortUrl": "https://nas.io/creators/nhtc",
+        "createdAt": "2021-02-26T19:05:59.000Z",
+        "link": "https://dash-cdn.nasacademy.com/889cd263-df33-4276-ab71-7f71e0bcbc96/dash/AOS_2.4_The_Golden_3_Relatability.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/889cd263-df33-4276-ab71-7f71e0bcbc96/hls/AOS_2.4_The_Golden_3_Relatability.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/889cd263-df33-4276-ab71-7f71e0bcbc96/thumbnails/AOS_2.4_The_Golden_3_Relatability_thumb.0000000.jpg",
+        "duration": 262000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS2_4.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS2_4_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS2_4_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS2_4BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS2_4_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS2_4_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS2_4_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS2_4_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS2_4_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS2_4_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS2_4_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS2_4_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS2_4_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS2_4_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcce3a211e8923f4350",
+        "topicIndex": 3,
+        "subIndex": 5,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of a Place: Finding The Right Story",
+        "shortUrl": "https://nas.io/creators/dcep",
+        "createdAt": "2021-10-29T09:54:04.000Z",
+        "link": "https://dash-cdn.nasacademy.com/fd574bf2-ec45-419d-a1d0-c13ece22f5e9/dash/AOS_3.1_Finding_The_Right_Story.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/fd574bf2-ec45-419d-a1d0-c13ece22f5e9/hls/AOS_3.1_Finding_The_Right_Story.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/fd574bf2-ec45-419d-a1d0-c13ece22f5e9/thumbnails/AOS_3.1_Finding_The_Right_Story_thumb.0000000.jpg",
+        "duration": 1014000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS3_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS3_1_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS3_1_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS3_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS3_1_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS3_1_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS3_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS3_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS3_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS3_1_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS3_1_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS3_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS3_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS3_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcde3a211e8923f4351",
+        "topicIndex": 3,
+        "subIndex": 6,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of a Place: Scripting The Story",
+        "shortUrl": "https://nas.io/creators/hyde",
+        "createdAt": "2021-10-29T09:54:17.000Z",
+        "link": "https://dash-cdn.nasacademy.com/21610315-dce2-4ddc-934c-26708f9a7835/dash/AOS_3.2_Scripting_The_Story.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/21610315-dce2-4ddc-934c-26708f9a7835/hls/AOS_3.2_Scripting_The_Story.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/21610315-dce2-4ddc-934c-26708f9a7835/thumbnails/AOS_3.2_Scripting_The_Story_thumb.0000000.jpg",
+        "duration": 565000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS3_2.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS3_2_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS3_2_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS3_2_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS3_2_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS3_2_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS3_2_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS3_2_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS3_2_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS3_2_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS3_2_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS3_2_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS3_2_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS3_2_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcde3a211e8923f4352",
+        "topicIndex": 3,
+        "subIndex": 7,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of a Place: The Final Result",
+        "shortUrl": "https://nas.io/creators/svin",
+        "createdAt": "2021-10-29T09:54:31.000Z",
+        "link": "https://dash-cdn.nasacademy.com/228cbea9-3856-4105-8dfd-e5cb33e930f8/dash/AOS_3.4_Final_Thoughts.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/228cbea9-3856-4105-8dfd-e5cb33e930f8/hls/AOS_3.4_Final_Thoughts.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/228cbea9-3856-4105-8dfd-e5cb33e930f8/thumbnails/AOS_3.4_Final_Thoughts_thumb.0000000.jpg",
+        "duration": 342000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS3_4.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS3_4_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS3_4_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS3_4_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS3_4_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS3_4_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS3_4_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS3_4_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS3_4_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS3_4_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS3_4_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS3_4_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS3_4_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS3_4_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "6296aca0bb168d13ef427597",
+        "topicIndex": 3,
+        "subIndex": 8,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of a Person: Finding The Right Story",
+        "shortUrl": "https://nas.io/creators/lnyu",
+        "createdAt": "2021-10-29T09:54:46.000Z",
+        "link": "https://dash-cdn.nasacademy.com/5423be72-a5a9-4f3e-a0c9-44bd6391a6c9/dash/AOS_4.1_Finding_The_Story_Person.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/5423be72-a5a9-4f3e-a0c9-44bd6391a6c9/hls/AOS_4.1_Finding_The_Story_Person.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/5423be72-a5a9-4f3e-a0c9-44bd6391a6c9/thumbnails/AOS_4.1_Finding_The_Story_Person_thumb.0000000.jpg",
+        "duration": 782000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS4_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS4_1_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS4_1_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS4_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS4_1_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS4_1_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS4_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS4_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS4_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS4_1_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS4_1_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS4_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS4_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS4_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "6296acd2bb168d13ef4289d4",
+        "topicIndex": 3,
+        "subIndex": 9,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of a Person: Scripting The Story",
+        "shortUrl": "https://nas.io/creators/evwg",
+        "createdAt": "2021-10-29T09:58:52.000Z",
+        "link": "https://dash-cdn.nasacademy.com/e1c9309e-7ad1-4e9a-a4dd-531ba0ace300/dash/AOS_4.2_Scripting_The_Story_Person.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/e1c9309e-7ad1-4e9a-a4dd-531ba0ace300/hls/AOS_4.2_Scripting_The_Story_Person.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/e1c9309e-7ad1-4e9a-a4dd-531ba0ace300/thumbnails/AOS_4.2_Scripting_The_Story_Person_thumb.0000000.jpg",
+        "duration": 743000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS4_2.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS4_2_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS4_2_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS4_2_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS4_2_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS4_2_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS4_2_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS4_2_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS4_2_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS4_2_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS4_2_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS4_2_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS4_2_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS4_2_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcfe3a211e8923f4355",
+        "topicIndex": 3,
+        "subIndex": 10,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of a Person: The Final Result",
+        "shortUrl": "https://nas.io/creators/nkxc",
+        "createdAt": "2021-10-29T09:59:27.000Z",
+        "link": "https://dash-cdn.nasacademy.com/26c76a6f-f42c-4e57-b6fb-14d2461be391/dash/AOS_4.4_Final_Thoughts_Person.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/26c76a6f-f42c-4e57-b6fb-14d2461be391/hls/AOS_4.4_Final_Thoughts_Person.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/26c76a6f-f42c-4e57-b6fb-14d2461be391/thumbnails/AOS_4.4_Final_Thoughts_Person_thumb.0000000.jpg",
+        "duration": 266000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS4_4.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS4_4_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS4_4_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS4_4_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS4_4_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS4_4_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS4_4_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS4_4_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS4_4_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS4_4_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS4_4_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS4_4_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS4_4_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS4_4_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "626ecbcfe3a211e8923f4356",
+        "topicIndex": 3,
+        "subIndex": 11,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of a Product: Finding The Right Angle",
+        "shortUrl": "https://nas.io/creators/xenq",
+        "createdAt": "2021-02-26T19:17:52.000Z",
+        "link": "https://dash-cdn.nasacademy.com/9548d585-4237-47df-976f-0baeeaa72e85/dash/AOS_5.1_Finding_The_Right_Angle_Product.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/9548d585-4237-47df-976f-0baeeaa72e85/hls/AOS_5.1_Finding_The_Right_Angle_Product.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/9548d585-4237-47df-976f-0baeeaa72e85/thumbnails/AOS_5.1_Finding_The_Right_Angle_Product_thumb.0000000.jpg",
+        "duration": 478000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS5_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS5_1_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS5_1_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS5_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS5_1_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS5_1_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS5_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS5_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS5_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS5_1_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS5_1_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS5_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS5_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS5_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "6296adb7bb168d13ef434189",
+        "topicIndex": 3,
+        "subIndex": 12,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of a Product: Scripting The Story",
+        "shortUrl": "https://nas.io/creators/wfgt",
+        "createdAt": "2021-10-29T10:00:11.000Z",
+        "link": "https://dash-cdn.nasacademy.com/080f900f-bc36-465b-a6b7-f56398ca4c64/dash/AOS_5.2_Scripting_The_Story_Product.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/080f900f-bc36-465b-a6b7-f56398ca4c64/hls/AOS_5.2_Scripting_The_Story_Product.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/080f900f-bc36-465b-a6b7-f56398ca4c64/thumbnails/AOS_5.2_Scripting_The_Story_Product_thumb.0000000.jpg",
+        "duration": 579000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS5_2.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS5_2_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS5_2_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS5_2_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS5_2_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS5_2_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS5_2_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS5_2_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS5_2_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS5_2_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS5_2_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS5_2_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS5_2_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS5_2_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "6296adf5bb168d13ef435d84",
+        "topicIndex": 3,
+        "subIndex": 13,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of a Product: Final Thoughts",
+        "shortUrl": "https://nas.io/creators/mmjt",
+        "createdAt": "2021-10-29T10:00:36.000Z",
+        "link": "https://dash-cdn.nasacademy.com/acaa5774-af93-4e65-8d7c-50141ca52fee/dash/AOS_5.4_Final_Thoughts_Product.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/acaa5774-af93-4e65-8d7c-50141ca52fee/hls/AOS_5.4_Final_Thoughts_Product.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/acaa5774-af93-4e65-8d7c-50141ca52fee/thumbnails/AOS_5.4_Final_Thoughts_Product_thumb.0000010.jpg",
+        "duration": 87000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS5_4.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS5_4_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS5_4_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS5_4_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS5_4_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS5_4_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS5_4_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS5_4_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS5_4_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS5_4_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS5_4_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS5_4_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS5_4_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS5_4_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "6296af35bb168d13ef447042",
+        "topicIndex": 3,
+        "subIndex": 14,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of Purpose: Finding The Right Angle",
+        "shortUrl": "https://nas.io/creators/rvvw",
+        "createdAt": "2021-10-29T10:02:42.000Z",
+        "link": "https://dash-cdn.nasacademy.com/65f7cca1-d486-4b46-a53e-0f7ae8aee841/dash/AOS_6.1_Finding_The_Right_Angle_Purpose.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/65f7cca1-d486-4b46-a53e-0f7ae8aee841/hls/AOS_6.1_Finding_The_Right_Angle_Purpose.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/65f7cca1-d486-4b46-a53e-0f7ae8aee841/thumbnails/AOS_6.1_Finding_The_Right_Angle_Purpose_thumb.0000000.jpg",
+        "duration": 605000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS6_1.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS6_1_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS6_1_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS6_1_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS6_1_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS6_1_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS6_1_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS6_1_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS6_1_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS6_1_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS6_1_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS6_1_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS6_1_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS6_1_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "6296af60bb168d13ef449eec",
+        "topicIndex": 3,
+        "subIndex": 15,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of Purpose: Scripting The Story",
+        "shortUrl": "https://nas.io/creators/uhkc",
+        "createdAt": "2021-10-29T10:03:03.000Z",
+        "link": "https://dash-cdn.nasacademy.com/9d80b1d9-0d9f-42e4-83e3-feaa4201f672/dash/AOS_6.2_Scripting_The_Story_Purpose.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/9d80b1d9-0d9f-42e4-83e3-feaa4201f672/hls/AOS_6.2_Scripting_The_Story_Purpose.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/9d80b1d9-0d9f-42e4-83e3-feaa4201f672/thumbnails/AOS_6.2_Scripting_The_Story_Purpose_thumb.0000000.jpg",
+        "duration": 935000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS6_2.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS6_2_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS6_2_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS6_2_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS6_2_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS6_2_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS6_2_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS6_2_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS6_2_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS6_2_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS6_2_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS6_2_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS6_2_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS6_2_JA.vtt"
+          }
+        ]
+      },
+      {
+        "_id": "6296af81bb168d13ef44c233",
+        "topicIndex": 3,
+        "subIndex": 16,
+        "topic": "How to Become a Better Writer",
+        "title": "Tell the story of Purpose: The Final Result",
+        "shortUrl": "https://nas.io/creators/gmld",
+        "createdAt": "2021-10-29T10:03:19.000Z",
+        "link": "https://dash-cdn.nasacademy.com/48f7dae0-eae9-433b-a928-7644808bea38/dash/AOS_6.4_Final_Thoughts_Purpose.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/48f7dae0-eae9-433b-a928-7644808bea38/hls/AOS_6.4_Final_Thoughts_Purpose.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/48f7dae0-eae9-433b-a928-7644808bea38/thumbnails/AOS_6.4_Final_Thoughts_Purpose_thumb.0000000.jpg",
+        "duration": 252000,
+        "subtitles": [
+          {
+            "language": "en",
+            "label": "English",
+            "isDefault": true,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/AOS6_4.vtt"
+          },
+          {
+            "language": "ar",
+            "label": "Arabic",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Arabic/AOS6_4_AR.vtt"
+          },
+          {
+            "language": "es",
+            "label": "Spanish",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Spanish/AOS6_4_ES.vtt"
+          },
+          {
+            "language": "bn",
+            "label": "Bengali",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Bengali/AOS6_4_BN.vtt"
+          },
+          {
+            "language": "fr",
+            "label": "French",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/French/AOS6_4_FR.vtt"
+          },
+          {
+            "language": "he",
+            "label": "Hebrew",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hebrew/AOS6_4_HE.vtt"
+          },
+          {
+            "language": "hi",
+            "label": "Hindi",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Hindi/AOS6_4_HI.vtt"
+          },
+          {
+            "language": "id",
+            "label": "Indonesian",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Indonesian/AOS6_4_ID.vtt"
+          },
+          {
+            "language": "ms",
+            "label": "Malay",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Malay/AOS6_4_MS.vtt"
+          },
+          {
+            "language": "pt",
+            "label": "Portuguese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Portuguese/AOS6_4_PT.vtt"
+          },
+          {
+            "language": "tl",
+            "label": "Tagalog",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Tagalog/AOS6_4_TL.vtt"
+          },
+          {
+            "language": "zh-Hans",
+            "label": "Chinese (Simplified)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Simplified/AOS6_4_CN_S.vtt"
+          },
+          {
+            "language": "zh-Hant",
+            "label": "Chinese (Traditional)",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Chinese-Traditional/AOS6_4_CN_T.vtt"
+          },
+          {
+            "language": "ja",
+            "label": "Japanese",
+            "isDefault": false,
+            "src": "https://d2oi1rqwb0pj00.cloudfront.net/na-portal/prerecordedclass/art_of_storytelling/vtt/Japanese/AOS6_4_JA.vtt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "topic": "From 0 to 100k followers",
+    "topicIndex": 5,
+    "items": [
+      {
+        "_id": "626ecbd3e3a211e8923f4363",
+        "topicIndex": 5,
+        "subIndex": 1,
+        "topic": "From 0 to 100k followers",
+        "title": "Why I choose facebook over youtube and what I did wrong",
+        "shortUrl": "https://nas.io/creators/kqbf",
+        "createdAt": "2022-05-04T22:13:24.000Z",
+        "link": "https://dash-cdn.nasacademy.com/eadceee8-88c2-4f3f-9d61-7d49a928a216/dash/1__Whatsup_Tony_why_I_choose_facebook_over_youtube_and_what_I_did_wrong__How_I_got_to_my_first_10_000_likes_.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/eadceee8-88c2-4f3f-9d61-7d49a928a216/hls/1__Whatsup_Tony_why_I_choose_facebook_over_youtube_and_what_I_did_wrong__How_I_got_to_my_first_10_000_likes_.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/eadceee8-88c2-4f3f-9d61-7d49a928a216/thumbnails/1__Whatsup_Tony_why_I_choose_facebook_over_youtube_and_what_I_did_wrong__How_I_got_to_my_first_10_000_likes__thumb.0000166.jpg",
+        "duration": 833000
+      },
+      {
+        "_id": "626ecbd3e3a211e8923f4364",
+        "topicIndex": 5,
+        "subIndex": 2,
+        "topic": "From 0 to 100k followers",
+        "title": "How I got to 100,000k likes",
+        "shortUrl": "https://nas.io/creators/slrf",
+        "createdAt": "2022-05-04T22:14:22.000Z",
+        "link": "https://dash-cdn.nasacademy.com/26896f20-5bf4-4f16-9f14-caf6237b404d/dash/2__Whatsup_Tony_How_I_got_to_100,000k_likes__how_scripting_helped,_using_Emojis_and_how_to_have_longer_watch_time.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/26896f20-5bf4-4f16-9f14-caf6237b404d/hls/2__Whatsup_Tony_How_I_got_to_100,000k_likes__how_scripting_helped,_using_Emojis_and_how_to_have_longer_watch_time.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/26896f20-5bf4-4f16-9f14-caf6237b404d/thumbnails/2__Whatsup_Tony_How_I_got_to_100,000k_likes__how_scripting_helped,_using_Emojis_and_how_to_have_longer_watch_time_thumb.0000092.jpg",
+        "duration": 464000
+      },
+      {
+        "_id": "626ecbd3e3a211e8923f4365",
+        "topicIndex": 5,
+        "subIndex": 3,
+        "topic": "From 0 to 100k followers",
+        "title": "Work with the community and other creators",
+        "shortUrl": "https://nas.io/creators/ggsn",
+        "createdAt": "2022-05-04T22:15:20.000Z",
+        "link": "https://dash-cdn.nasacademy.com/9e45b1eb-fd9e-4dd4-a0a5-209b7f0d4d27/dash/3__Lorena___how_to_grow_to_100k_1__Work_with_the_community_and_other_creators.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/9e45b1eb-fd9e-4dd4-a0a5-209b7f0d4d27/hls/3__Lorena___how_to_grow_to_100k_1__Work_with_the_community_and_other_creators.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/9e45b1eb-fd9e-4dd4-a0a5-209b7f0d4d27/thumbnails/3__Lorena___how_to_grow_to_100k_1__Work_with_the_community_and_other_creators_thumb.0000055.jpg",
+        "duration": 277000
+      },
+      {
+        "_id": "626ecbd3e3a211e8923f4366",
+        "topicIndex": 5,
+        "subIndex": 4,
+        "topic": "From 0 to 100k followers",
+        "title": "How to Stand out",
+        "shortUrl": "https://nas.io/creators/csin",
+        "createdAt": "2022-05-04T22:16:15.000Z",
+        "link": "https://dash-cdn.nasacademy.com/7f4bcd79-a15a-4242-948d-ab2a57ed69ad/dash/4__Lorena___how_to_grow_to_100k_2__How_to_Stand_out__thumbnails___be_shareable___be_extreme.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/7f4bcd79-a15a-4242-948d-ab2a57ed69ad/hls/4__Lorena___how_to_grow_to_100k_2__How_to_Stand_out__thumbnails___be_shareable___be_extreme.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/7f4bcd79-a15a-4242-948d-ab2a57ed69ad/thumbnails/4__Lorena___how_to_grow_to_100k_2__How_to_Stand_out__thumbnails___be_shareable___be_extreme_thumb.0000096.jpg",
+        "duration": 481000
+      },
+      {
+        "_id": "626ecbd4e3a211e8923f4367",
+        "topicIndex": 5,
+        "subIndex": 5,
+        "topic": "From 0 to 100k followers",
+        "title": "How to improve your watch time",
+        "shortUrl": "https://nas.io/creators/xqyi",
+        "createdAt": "2022-05-04T22:17:01.000Z",
+        "link": "https://dash-cdn.nasacademy.com/7bc7ed36-35e8-4c36-86fc-e6460e4ad429/dash/5__Lorena___how_to_grow_to_100k_3__How_to_improve_your_watch_time.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/7bc7ed36-35e8-4c36-86fc-e6460e4ad429/hls/5__Lorena___how_to_grow_to_100k_3__How_to_improve_your_watch_time.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/7bc7ed36-35e8-4c36-86fc-e6460e4ad429/thumbnails/5__Lorena___how_to_grow_to_100k_3__How_to_improve_your_watch_time_thumb.0000142.jpg",
+        "duration": 712000
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "topic": "Commercialize your creativity",
+    "topicIndex": 6,
+    "items": [
+      {
+        "_id": "626ecbd4e3a211e8923f4368",
+        "topicIndex": 6,
+        "subIndex": 1,
+        "topic": "Commercialize your creativity",
+        "title": "What exactly do you do?",
+        "shortUrl": "https://nas.io/creators/zokb",
+        "createdAt": "2022-05-04T22:17:55.000Z",
+        "link": "https://dash-cdn.nasacademy.com/f75f9a04-5ea2-43ae-9906-5b8e62a2ee43/dash/1__Commercialising_your_creativity__What_do_you_do__Operator__creative__creator___whats_the_difference_and_which_one_are_you.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/f75f9a04-5ea2-43ae-9906-5b8e62a2ee43/hls/1__Commercialising_your_creativity__What_do_you_do__Operator__creative__creator___whats_the_difference_and_which_one_are_you.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/f75f9a04-5ea2-43ae-9906-5b8e62a2ee43/thumbnails/1__Commercialising_your_creativity__What_do_you_do__Operator__creative__creator___whats_the_difference_and_which_one_are_you_thumb.0000244.jpg",
+        "duration": 1224000
+      },
+      {
+        "_id": "626ecbd4e3a211e8923f4369",
+        "topicIndex": 6,
+        "subIndex": 2,
+        "topic": "Commercialize your creativity",
+        "title": "Who do you work for?",
+        "shortUrl": "https://nas.io/creators/kpdy",
+        "createdAt": "2022-05-04T22:18:53.000Z",
+        "link": "https://dash-cdn.nasacademy.com/b150bf13-6bdd-4127-94a0-9d22e83ae1f7/dash/2__Commercialising_your_creativity__Who_do_you_work_for___why_you_should_specialise_in_one_area.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/b150bf13-6bdd-4127-94a0-9d22e83ae1f7/hls/2__Commercialising_your_creativity__Who_do_you_work_for___why_you_should_specialise_in_one_area.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/b150bf13-6bdd-4127-94a0-9d22e83ae1f7/thumbnails/2__Commercialising_your_creativity__Who_do_you_work_for___why_you_should_specialise_in_one_area_thumb.0000080.jpg",
+        "duration": 404000
+      },
+      {
+        "_id": "626ecbd5e3a211e8923f436a",
+        "topicIndex": 6,
+        "subIndex": 3,
+        "topic": "Commercialize your creativity",
+        "title": "How to negotiate and get your value seen",
+        "shortUrl": "https://nas.io/creators/nfop",
+        "createdAt": "2022-05-04T22:20:15.000Z",
+        "link": "https://dash-cdn.nasacademy.com/389b0486-b2a2-4b6d-928c-2a07515fd51a/dash/3__Commercialising_your_creativity__How_to_negotiate_and_get_your_value_seen.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/389b0486-b2a2-4b6d-928c-2a07515fd51a/hls/3__Commercialising_your_creativity__How_to_negotiate_and_get_your_value_seen.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/389b0486-b2a2-4b6d-928c-2a07515fd51a/thumbnails/3__Commercialising_your_creativity__How_to_negotiate_and_get_your_value_seen_thumb.0000350.jpg",
+        "duration": 1752000
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "topic": "Nas Daily Final Cut Pro for Beginners",
+    "topicIndex": 7,
+    "items": [
+      {
+        "_id": "626ecbd5e3a211e8923f436b",
+        "topicIndex": 7,
+        "subIndex": 1,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Introducing The Nas Daily Academy",
+        "shortUrl": "https://nas.io/creators/gnzh",
+        "createdAt": "2022-01-13T11:14:44.000Z",
+        "link": "https://dash-cdn.nasacademy.com/81d1d53d-e894-464e-9863-e6997793b157/dash/NAS_DAILY_FINAL_CUT_BEGINNER_1.1_Introducing_The_Nas_Daily_Team.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/81d1d53d-e894-464e-9863-e6997793b157/hls/NAS_DAILY_FINAL_CUT_BEGINNER_1.1_Introducing_The_Nas_Daily_Team.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/81d1d53d-e894-464e-9863-e6997793b157/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_1.1_Introducing_The_Nas_Daily_Team_thumb.0000010.jpg",
+        "duration": 397000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbd5e3a211e8923f436c",
+        "topicIndex": 7,
+        "subIndex": 2,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "I Don’t Need To Know How To Organize Shoots!",
+        "shortUrl": "https://nas.io/creators/ndza",
+        "createdAt": "2022-01-13T11:16:19.000Z",
+        "link": "https://dash-cdn.nasacademy.com/797d44f9-4d86-4505-b3e6-2c663df25338/dash/NAS_DAILY_FINAL_CUT_BEGINNER_2.1_I_Dont_Need_To_Know_How_To_Organize_Shoots.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/797d44f9-4d86-4505-b3e6-2c663df25338/hls/NAS_DAILY_FINAL_CUT_BEGINNER_2.1_I_Dont_Need_To_Know_How_To_Organize_Shoots.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/797d44f9-4d86-4505-b3e6-2c663df25338/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_2.1_I_Dont_Need_To_Know_How_To_Organize_Shoots_thumb.0000035.jpg",
+        "duration": 470000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbd5e3a211e8923f436d",
+        "topicIndex": 7,
+        "subIndex": 3,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Beginner’s Guide To The Final Cut Pro Console",
+        "shortUrl": "https://nas.io/creators/elhw",
+        "createdAt": "2021-09-28T05:51:35.000Z",
+        "link": "https://dash-cdn.nasacademy.com/16fd1552-4a73-4559-9165-3906b8b91f24/dash/NAS_DAILY_FINAL_CUT_BEGINNER_3.1_Understanding_The_Final_Cut_Pro_Console.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/16fd1552-4a73-4559-9165-3906b8b91f24/hls/NAS_DAILY_FINAL_CUT_BEGINNER_3.1_Understanding_The_Final_Cut_Pro_Console.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/16fd1552-4a73-4559-9165-3906b8b91f24/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_3.1_Understanding_The_Final_Cut_Pro_Console_thumb.0000020.jpg",
+        "duration": 378000
+      },
+      {
+        "_id": "626ecbd6e3a211e8923f436e",
+        "topicIndex": 7,
+        "subIndex": 4,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Organization 101: How To Marie Kondo Our Video Files",
+        "shortUrl": "https://nas.io/creators/ghaf",
+        "createdAt": "2022-01-13T11:18:19.000Z",
+        "link": "https://dash-cdn.nasacademy.com/d9b948e1-8b99-4049-b466-e86527b96416/dash/NAS_DAILY_FINAL_CUT_BEGINNER_4.1_Organization_101.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/d9b948e1-8b99-4049-b466-e86527b96416/hls/NAS_DAILY_FINAL_CUT_BEGINNER_4.1_Organization_101.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/d9b948e1-8b99-4049-b466-e86527b96416/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_4.1_Organization_101_thumb.0000015.jpg",
+        "duration": 354000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbd6e3a211e8923f436f",
+        "topicIndex": 7,
+        "subIndex": 5,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Need For Speed: Final Cut Pro Hotkeys & Shortcuts",
+        "shortUrl": "https://nas.io/creators/pepl",
+        "createdAt": "2021-09-28T05:52:00.000Z",
+        "link": "https://dash-cdn.nasacademy.com/bbe28805-a4ce-44e4-8834-1c9ae3e6b76e/dash/NAS_DAILY_FINAL_CUT_BEGINNER_5.1_Need_For_Speed.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/bbe28805-a4ce-44e4-8834-1c9ae3e6b76e/hls/NAS_DAILY_FINAL_CUT_BEGINNER_5.1_Need_For_Speed.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/bbe28805-a4ce-44e4-8834-1c9ae3e6b76e/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_5.1_Need_For_Speed_thumb.0000010.jpg",
+        "duration": 457000
+      },
+      {
+        "_id": "626ecbd6e3a211e8923f4370",
+        "topicIndex": 7,
+        "subIndex": 6,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Installing Effects",
+        "shortUrl": "https://nas.io/creators/pryr",
+        "createdAt": "2021-09-28T05:52:08.000Z",
+        "link": "https://dash-cdn.nasacademy.com/2106f6f4-89c6-497c-9f6d-aab43c112adb/dash/NAS_DAILY_FINAL_CUT_BEGINNER_6.1_Installing_Effects.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/2106f6f4-89c6-497c-9f6d-aab43c112adb/hls/NAS_DAILY_FINAL_CUT_BEGINNER_6.1_Installing_Effects.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/2106f6f4-89c6-497c-9f6d-aab43c112adb/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_6.1_Installing_Effects_thumb.0000007.jpg",
+        "duration": 173000
+      },
+      {
+        "_id": "626ecbd7e3a211e8923f4371",
+        "topicIndex": 7,
+        "subIndex": 7,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Sound Design Part I: The Basics",
+        "shortUrl": "https://nas.io/creators/dijp",
+        "createdAt": "2021-09-28T05:52:20.000Z",
+        "link": "https://dash-cdn.nasacademy.com/25a2207e-b7e1-48f6-982c-bbccc00d810e/dash/NAS_DAILY_FINAL_CUT_BEGINNER_7.1_Sound_Design_I.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/25a2207e-b7e1-48f6-982c-bbccc00d810e/hls/NAS_DAILY_FINAL_CUT_BEGINNER_7.1_Sound_Design_I.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/25a2207e-b7e1-48f6-982c-bbccc00d810e/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_7.1_Sound_Design_I_thumb.0000005.jpg",
+        "duration": 1503000
+      },
+      {
+        "_id": "626ecbd7e3a211e8923f4372",
+        "topicIndex": 7,
+        "subIndex": 8,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Sound Design Part II: Creating The Emotional Arc",
+        "shortUrl": "https://nas.io/creators/fhad",
+        "createdAt": "2021-09-28T05:52:33.000Z",
+        "link": "https://dash-cdn.nasacademy.com/09d4a6be-f524-477f-9e4d-770bf72a4a84/dash/NAS_DAILY_FINAL_CUT_BEGINNER_8.1_Sound_Design_II.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/09d4a6be-f524-477f-9e4d-770bf72a4a84/hls/NAS_DAILY_FINAL_CUT_BEGINNER_8.1_Sound_Design_II.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/09d4a6be-f524-477f-9e4d-770bf72a4a84/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_8.1_Sound_Design_II_thumb.0000012.jpg",
+        "duration": 1596000
+      },
+      {
+        "_id": "626ecbd7e3a211e8923f4373",
+        "topicIndex": 7,
+        "subIndex": 9,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Sound Design Part III: Sound Effects",
+        "shortUrl": "https://nas.io/creators/ikqw",
+        "createdAt": "2021-09-28T05:52:44.000Z",
+        "link": "https://dash-cdn.nasacademy.com/e5f1b5ce-0ad4-4ebb-bb71-2701cfc7921d/dash/NAS_DAILY_FINAL_CUT_BEGINNER_9.1_Sound_Design_III.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/e5f1b5ce-0ad4-4ebb-bb71-2701cfc7921d/hls/NAS_DAILY_FINAL_CUT_BEGINNER_9.1_Sound_Design_III.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/e5f1b5ce-0ad4-4ebb-bb71-2701cfc7921d/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_9.1_Sound_Design_III_thumb.0000005.jpg",
+        "duration": 1003000
+      },
+      {
+        "_id": "626ecbd7e3a211e8923f4374",
+        "topicIndex": 7,
+        "subIndex": 10,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "How We Choose Footage",
+        "shortUrl": "https://nas.io/creators/fhmt",
+        "createdAt": "2021-09-28T05:52:56.000Z",
+        "link": "https://dash-cdn.nasacademy.com/5fd5a39f-b38f-4147-b2ea-50d31d51783e/dash/NAS_DAILY_FINAL_CUT_BEGINNER_10.1_How_We_Choose_Footage.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/5fd5a39f-b38f-4147-b2ea-50d31d51783e/hls/NAS_DAILY_FINAL_CUT_BEGINNER_10.1_How_We_Choose_Footage.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/5fd5a39f-b38f-4147-b2ea-50d31d51783e/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_10.1_How_We_Choose_Footage_thumb.0000015.jpg",
+        "duration": 826000
+      },
+      {
+        "_id": "626ecbd8e3a211e8923f4375",
+        "topicIndex": 7,
+        "subIndex": 11,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Problem: We Don't Have Enough Footage?!",
+        "shortUrl": "https://nas.io/creators/dhoz",
+        "createdAt": "2022-01-13T11:37:45.000Z",
+        "link": "https://dash-cdn.nasacademy.com/5f2e86c4-9b9a-4e2d-8c0d-28e4d3e49c48/dash/NAS_DAILY_FINAL_CUT_BEGINNER_11.1_Problem_We_Dont_Have_Enough_Footage.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/5f2e86c4-9b9a-4e2d-8c0d-28e4d3e49c48/hls/NAS_DAILY_FINAL_CUT_BEGINNER_11.1_Problem_We_Dont_Have_Enough_Footage.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/5f2e86c4-9b9a-4e2d-8c0d-28e4d3e49c48/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_11.1_Problem_We_Dont_Have_Enough_Footage_thumb.0000010.jpg",
+        "duration": 483000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbd8e3a211e8923f4376",
+        "topicIndex": 7,
+        "subIndex": 12,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Masking 101",
+        "shortUrl": "https://nas.io/creators/axmn",
+        "createdAt": "2021-09-28T05:56:00.000Z",
+        "link": "https://dash-cdn.nasacademy.com/1a137ade-0da7-41bb-a85d-eec2a1fb7e62/dash/NAS_DAILY_FINAL_CUT_BEGINNER_12.1_Masking_101.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/1a137ade-0da7-41bb-a85d-eec2a1fb7e62/hls/NAS_DAILY_FINAL_CUT_BEGINNER_12.1_Masking_101.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/1a137ade-0da7-41bb-a85d-eec2a1fb7e62/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_12.1_Masking_101_thumb.0000010.jpg",
+        "duration": 331000
+      },
+      {
+        "_id": "626ecbd9e3a211e8923f4377",
+        "topicIndex": 7,
+        "subIndex": 13,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Animation 101",
+        "shortUrl": "https://nas.io/creators/qkxz",
+        "createdAt": "2022-01-13T11:39:45.000Z",
+        "link": "https://dash-cdn.nasacademy.com/57c408dd-a4d1-4f0e-b145-b1adffb16eb4/dash/NAS_DAILY_FINAL_CUT_BEGINNER_13.1_Animations_101.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/57c408dd-a4d1-4f0e-b145-b1adffb16eb4/hls/NAS_DAILY_FINAL_CUT_BEGINNER_13.1_Animations_101.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/57c408dd-a4d1-4f0e-b145-b1adffb16eb4/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_13.1_Animations_101_thumb.0000010.jpg",
+        "duration": 1319000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbd9e3a211e8923f4378",
+        "topicIndex": 7,
+        "subIndex": 14,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Transitions 101",
+        "shortUrl": "https://nas.io/creators/cmmy",
+        "createdAt": "2021-09-28T05:56:26.000Z",
+        "link": "https://dash-cdn.nasacademy.com/66c86bb2-0b65-4010-8a90-7b33856893dc/dash/NAS_DAILY_FINAL_CUT_BEGINNER_14.1_Transitions_101.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/66c86bb2-0b65-4010-8a90-7b33856893dc/hls/NAS_DAILY_FINAL_CUT_BEGINNER_14.1_Transitions_101.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/66c86bb2-0b65-4010-8a90-7b33856893dc/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_14.1_Transitions_101_thumb.0000020.jpg",
+        "duration": 589000
+      },
+      {
+        "_id": "626ecbd9e3a211e8923f4379",
+        "topicIndex": 7,
+        "subIndex": 15,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Color Grading For Social Media",
+        "shortUrl": "https://nas.io/creators/fcmj",
+        "createdAt": "2022-01-13T11:43:40.000Z",
+        "link": "https://dash-cdn.nasacademy.com/7b50b2cd-9d23-4a89-b624-59b2a7dc9903/dash/NAS_DAILY_FINAL_CUT_BEGINNER_15.1_Color_Grading_For_Social_Media.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/7b50b2cd-9d23-4a89-b624-59b2a7dc9903/hls/NAS_DAILY_FINAL_CUT_BEGINNER_15.1_Color_Grading_For_Social_Media.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/7b50b2cd-9d23-4a89-b624-59b2a7dc9903/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_15.1_Color_Grading_For_Social_Media_thumb.0000015.jpg",
+        "duration": 1251000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbdae3a211e8923f437a",
+        "topicIndex": 7,
+        "subIndex": 16,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Fix-It In Post: What Can Or Cannot Be Fixed",
+        "shortUrl": "https://nas.io/creators/jjpk",
+        "createdAt": "2022-01-13T11:44:19.000Z",
+        "link": "https://dash-cdn.nasacademy.com/7c3b3482-3407-41e8-91c7-f11f72048a32/dash/NAS_DAILY_FINAL_CUT_BEGINNER_16.1_Fix_It_In_Post.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/7c3b3482-3407-41e8-91c7-f11f72048a32/hls/NAS_DAILY_FINAL_CUT_BEGINNER_16.1_Fix_It_In_Post.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/7c3b3482-3407-41e8-91c7-f11f72048a32/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_16.1_Fix_It_In_Post_thumb.0000010.jpg",
+        "duration": 772000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbdae3a211e8923f437b",
+        "topicIndex": 7,
+        "subIndex": 17,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Thumb-Stopping 101: Thumbnails and Video Descriptions",
+        "shortUrl": "https://nas.io/creators/yjxt",
+        "createdAt": "2022-01-13T11:44:54.000Z",
+        "link": "https://dash-cdn.nasacademy.com/28b81d4c-861a-4ed8-8d64-4a6b1c3c8325/dash/NAS_DAILY_FINAL_CUT_BEGINNER_18.1_Thumb_Stopping_101.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/28b81d4c-861a-4ed8-8d64-4a6b1c3c8325/hls/NAS_DAILY_FINAL_CUT_BEGINNER_18.1_Thumb_Stopping_101.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/28b81d4c-861a-4ed8-8d64-4a6b1c3c8325/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_18.1_Thumb_Stopping_101_thumb.0000010.jpg",
+        "duration": 1097000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbdae3a211e8923f437c",
+        "topicIndex": 7,
+        "subIndex": 18,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Backing Up: Deleting Generated Library Files, Consolidating & Zipping",
+        "shortUrl": "https://nas.io/creators/arti",
+        "createdAt": "2022-01-13T11:45:50.000Z",
+        "link": "https://dash-cdn.nasacademy.com/15f9ced9-47c0-4da3-9c78-bedc1561c44d/dash/NAS_DAILY_FINAL_CUT_BEGINNER_17.1_Backing_Up.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/15f9ced9-47c0-4da3-9c78-bedc1561c44d/hls/NAS_DAILY_FINAL_CUT_BEGINNER_17.1_Backing_Up.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/15f9ced9-47c0-4da3-9c78-bedc1561c44d/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_17.1_Backing_Up_thumb.0000005.jpg",
+        "duration": 298000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbdae3a211e8923f437d",
+        "topicIndex": 7,
+        "subIndex": 19,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Do You Know Which Ones Will Go Viral?",
+        "shortUrl": "https://nas.io/creators/xmdv",
+        "createdAt": "2022-01-13T11:50:45.000Z",
+        "link": "https://dash-cdn.nasacademy.com/a37416db-5939-4c94-a36e-163c275fbafc/dash/NAS_DAILY_FINAL_CUT_BEGINNER_19.1_Do_You_Know_Which_Ones_Will_Go_Viral.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/a37416db-5939-4c94-a36e-163c275fbafc/hls/NAS_DAILY_FINAL_CUT_BEGINNER_19.1_Do_You_Know_Which_Ones_Will_Go_Viral.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/a37416db-5939-4c94-a36e-163c275fbafc/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_19.1_Do_You_Know_Which_Ones_Will_Go_Viral_thumb.0000010.jpg",
+        "duration": 395000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbdbe3a211e8923f437e",
+        "topicIndex": 7,
+        "subIndex": 20,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "When Do You Know It's Time To Let Your Baby Go? - Exporting & Publishing",
+        "shortUrl": "https://nas.io/creators/lvby",
+        "createdAt": "2022-01-13T11:51:27.000Z",
+        "link": "https://dash-cdn.nasacademy.com/749f24e8-713e-47df-9c5c-b86556056d27/dash/NAS_DAILY_FINAL_CUT_BEGINNER_20.1_Exporting_And_Publishing.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/749f24e8-713e-47df-9c5c-b86556056d27/hls/NAS_DAILY_FINAL_CUT_BEGINNER_20.1_Exporting_And_Publishing.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/749f24e8-713e-47df-9c5c-b86556056d27/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_20.1_Exporting_And_Publishing_thumb.0000030.jpg",
+        "duration": 492000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbdbe3a211e8923f437f",
+        "topicIndex": 7,
+        "subIndex": 21,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Breaking Down Different YouTuber Editing Styles",
+        "shortUrl": "https://nas.io/creators/zgxb",
+        "createdAt": "2021-09-28T05:57:59.000Z",
+        "link": "https://dash-cdn.nasacademy.com/a1594ec2-b22d-4f7c-be9a-2fe53534f1bc/dash/NAS_DAILY_FINAL_CUT_BEGINNER_21.1_Different_YouTuber_Editing_Styles.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/a1594ec2-b22d-4f7c-be9a-2fe53534f1bc/hls/NAS_DAILY_FINAL_CUT_BEGINNER_21.1_Different_YouTuber_Editing_Styles.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/a1594ec2-b22d-4f7c-be9a-2fe53534f1bc/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_21.1_Different_YouTuber_Editing_Styles_thumb.0000015.jpg",
+        "duration": 4324000
+      },
+      {
+        "_id": "626ecbdbe3a211e8923f4380",
+        "topicIndex": 7,
+        "subIndex": 22,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Planning Your Career As An Editor: Freelance Or Company?",
+        "shortUrl": "https://nas.io/creators/xyci",
+        "createdAt": "2022-01-13T11:52:36.000Z",
+        "link": "https://dash-cdn.nasacademy.com/d55a41e5-cd66-4b19-aace-f2c64822060f/dash/NAS_DAILY_FINAL_CUT_BEGINNER_22.1_Planning_Career_As_An_Editor.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/d55a41e5-cd66-4b19-aace-f2c64822060f/hls/NAS_DAILY_FINAL_CUT_BEGINNER_22.1_Planning_Career_As_An_Editor.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/d55a41e5-cd66-4b19-aace-f2c64822060f/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_22.1_Planning_Career_As_An_Editor_thumb.0000010.jpg",
+        "duration": 275000,
+        "subtitles": []
+      },
+      {
+        "_id": "626ecbdce3a211e8923f4381",
+        "topicIndex": 7,
+        "subIndex": 23,
+        "topic": "Nas Daily Final Cut Pro for Beginners",
+        "title": "Top Tips: Color Coding, Compressing, Stabilization & Speed Ramping",
+        "shortUrl": "https://nas.io/creators/mdzy",
+        "createdAt": "2022-01-13T11:53:09.000Z",
+        "link": "https://dash-cdn.nasacademy.com/8f088a51-9fd1-4005-b263-edc2e6d2bcdf/dash/NAS_DAILY_FINAL_CUT_BEGINNER_23.1_Top_Tips.mpd",
+        "hlsLink": "https://dash-cdn.nasacademy.com/8f088a51-9fd1-4005-b263-edc2e6d2bcdf/hls/NAS_DAILY_FINAL_CUT_BEGINNER_23.1_Top_Tips.m3u8",
+        "thumbnail": "https://dash-cdn.nasacademy.com/8f088a51-9fd1-4005-b263-edc2e6d2bcdf/thumbnails/NAS_DAILY_FINAL_CUT_BEGINNER_23.1_Top_Tips_thumb.0000207.jpg",
+        "duration": 1038000,
+        "subtitles": []
+      }
+    ]
+  }
+]

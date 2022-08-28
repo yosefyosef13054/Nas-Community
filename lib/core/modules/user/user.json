@@ -1,0 +1,68 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYxODUyMTA5MTIzYWM4ZDNkN2RjZDY5YyIsImxlYXJuZXJfcm9sZSI6dHJ1ZSwiaW5zdHJ1Y3Rvcl9yb2xlIjpmYWxzZSwiYWRtaW5fcm9sZSI6ZmFsc2UsImxlYXJuZXIiOnsiX2lkIjoiNjE4NTIxMDgxMjNhYzhkM2Q3ZGNkNjgxIiwibGVhcm5lcklkIjo0NjgwMSwic2hvd1dlbGNvbWVUb0NsYXNzcm9vbU1vZGFsIjpmYWxzZSwic2hvd1dlbGNvbWVUb0NvdXJzZVZpZGVvc01vZGFsIjpmYWxzZSwic2hvd1dlbGNvbWVUb0xwTW9kYWwiOmZhbHNlfSwiZW1haWwiOiJ6YW1yaSsxQG5hc2FjYWRlbXkuY29tIiwidXNlcl9pZCI6NDY4MDEsIm1vZGlmaWVkX29uIjoiMjAyMS0xMS0wOVQxMTowMjoxNy4zMDFaIiwic3RhdHVzIjoiQUNUSVZFIiwiY3JlYXRlZEF0IjoiMjAyMS0xMS0wOVQxMTowMjoxNi45ODBaIiwiY3JlYXRvcl9yb2xlIjpmYWxzZSwiaXNBY3RpdmUiOnRydWUsInVwZGF0ZWRBdCI6IjIwMjEtMTEtMDlUMTE6MDI6MTYuOTgwWiIsImdldFN0cmVhbVVzZXJUb2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxYzJWeVgybGtJam9pTkRZNE1ERWlmUS5wSGFsTFRKZDZxZ3I5eE42Vi1XZHZ5b21LU3VOLXVOTjBRa1lIbHNueDZZIn0sImlhdCI6MTY1NDY1NzkwNCwiZXhwIjoxNjU0NzQ0MzA0fQ.0o0lpFiFgGv36hggcNVjABAVnbQfAK0Z9JITVAwbP2k",
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7Il9pZCI6IjYxODUyMTA5MTIzYWM4ZDNkN2RjZDY5YyIsImxlYXJuZXJfcm9sZSI6dHJ1ZSwiaW5zdHJ1Y3Rvcl9yb2xlIjpmYWxzZSwiYWRtaW5fcm9sZSI6ZmFsc2UsImxlYXJuZXIiOnsiX2lkIjoiNjE4NTIxMDgxMjNhYzhkM2Q3ZGNkNjgxIiwibGVhcm5lcklkIjo0NjgwMSwic2hvd1dlbGNvbWVUb0NsYXNzcm9vbU1vZGFsIjpmYWxzZSwic2hvd1dlbGNvbWVUb0NvdXJzZVZpZGVvc01vZGFsIjpmYWxzZSwic2hvd1dlbGNvbWVUb0xwTW9kYWwiOmZhbHNlfSwiZW1haWwiOiJ6YW1yaSsxQG5hc2FjYWRlbXkuY29tIiwidXNlcl9pZCI6NDY4MDEsIm1vZGlmaWVkX29uIjoiMjAyMS0xMS0wOVQxMTowMjoxNy4zMDFaIiwic3RhdHVzIjoiQUNUSVZFIiwiY3JlYXRlZEF0IjoiMjAyMS0xMS0wOVQxMTowMjoxNi45ODBaIiwiY3JlYXRvcl9yb2xlIjpmYWxzZSwiaXNBY3RpdmUiOnRydWUsInVwZGF0ZWRBdCI6IjIwMjEtMTEtMDlUMTE6MDI6MTYuOTgwWiIsImdldFN0cmVhbVVzZXJUb2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxYzJWeVgybGtJam9pTkRZNE1ERWlmUS5wSGFsTFRKZDZxZ3I5eE42Vi1XZHZ5b21LU3VOLXVOTjBRa1lIbHNueDZZIn0sImlhdCI6MTY1NDY1NzkwNCwiZXhwIjoxNjU1MDg5OTA0fQ.Nt1JIeih8BJpjaAW7wvFNkhM9YKKrX6kQjIv1lpMBxk",
+  "user": {
+    "_id": "61852109123ac8d3d7dcd69c",
+    "learner_role": true,
+    "instructor_role": false,
+    "admin_role": false,
+    "learner": {
+      "_id": "61852108123ac8d3d7dcd681",
+      "phoneNumber": "+94772293789",
+      "email": "zamri+1@nasacademy.com",
+      "createdAt": "2021-11-05T12:18:16.382Z",
+      "firstName": "Zamri",
+      "lastModifiedTimeStamp": "2022-06-07T16:06:55.717Z",
+      "isActive": true,
+      "lastName": "Ahamath",
+      "countryId": 103,
+      "learnerId": 46801,
+      "__v": 8,
+      "achievements": [],
+      "corporateEmailSameAsLoginEmail": false,
+      "creations": [],
+      "description": "Quality over Quantity.",
+      "knowledgeSource": [],
+      "longDescription": "",
+      "profileImage": "https://s3.ap-southeast-1.amazonaws.com/thenasacademy.com/1653566438728.jpg",
+      "showWelcomeToClassroomModal": false,
+      "showWelcomeToCourseVideosModal": false,
+      "showWelcomeToLpModal": false,
+      "socialMedia": [
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/fb-transparent-black.svg",
+          "link": "https://learn.nasacademy.com/setting",
+          "type": "facebook"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/ig-transparent-black.svg",
+          "link": "https://learn.nasacademy.com/setting",
+          "type": "instagram"
+        },
+        {
+          "iconLink": "https://d2oi1rqwb0pj00.cloudfront.net/icons/yt-transparent-black.svg",
+          "link": "",
+          "type": "youtube"
+        }
+      ],
+      "subtitlePreference": "en",
+      "whatsAppNumberSameAsPhoneNumber": false,
+      "hasSubscribedToCommentEmails": false,
+      "modifiedBy": "Beatrice Leong",
+      "modifiedDate": "2022-04-27T18:13:05.106Z",
+      "modifiedReason": "Adjust lastModifiedTimeStamp String Type to Date Type",
+      "secondaryWallets": [],
+      "walletType": "metamask",
+      "lastViewedCourse": "6269138b0b573cd8ff752bae",
+      "lastViewedCourseTimeStamp": "2022-06-07T16:06:55.716Z"
+    },
+    "email": "zamri+1@nasacademy.com",
+    "user_id": 46801,
+    "modified_on": "2021-11-09T11:02:17.301Z",
+    "status": "ACTIVE",
+    "createdAt": "2021-11-09T11:02:16.980Z",
+    "creator_role": false,
+    "isActive": true,
+    "updatedAt": "2021-11-09T11:02:16.980Z"
+  }
+}

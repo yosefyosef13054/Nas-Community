@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "656317264365",
+    "project_id": "intricate-facet-265607",
+    "storage_bucket": "intricate-facet-265607.appspot.com",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656317264365:android:9e023d461505464a6db7e4",
+        "android_client_info": {
+          "package_name": "com.dev.nas.academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656317264365-1v4ipaco6sc4t9h38m90v1m18rpfea3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.nas.academy",
+            "certificate_hash": "7400303f2bb619e41cf9c0968761b734af67f9cf"
+          }
+        },
+        {
+          "client_id": "656317264365-0a56c7c0558rcvlcl5rff3mt9anqacj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ixmXr5U5HM-t8hSlFcFefuiZOQeWTLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656317264365-0a56c7c0558rcvlcl5rff3mt9anqacj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656317264365-p26l0p94rif57vfavc939h05me8282q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nasAcademy",
+                "app_store_id": "1624529593"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656317264365:android:ecdbc9e8f43bd51f6db7e4",
+        "android_client_info": {
+          "package_name": "com.nas.academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656317264365-1heentobaflm1kgii2cs8hv42t5s68ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nas.academy",
+            "certificate_hash": "8b2ed1bede34eec2a12d5c6444cccbd7576d700f"
+          }
+        },
+        {
+          "client_id": "656317264365-3mflnbp39aso9490oigh2fgun19t89hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nas.academy",
+            "certificate_hash": "7400303f2bb619e41cf9c0968761b734af67f9cf"
+          }
+        },
+        {
+          "client_id": "656317264365-rtm1r8mdlce7pco760bfcqfi9f79kisk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nas.academy",
+            "certificate_hash": "43af2adb0ea85fbe53018c048133666bc5ba4241"
+          }
+        },
+        {
+          "client_id": "656317264365-0a56c7c0558rcvlcl5rff3mt9anqacj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ixmXr5U5HM-t8hSlFcFefuiZOQeWTLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656317264365-0a56c7c0558rcvlcl5rff3mt9anqacj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656317264365-p26l0p94rif57vfavc939h05me8282q7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nasAcademy",
+                "app_store_id": "1624529593"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
